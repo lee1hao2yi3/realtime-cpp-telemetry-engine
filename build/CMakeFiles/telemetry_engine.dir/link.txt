@@ -1,0 +1,1 @@
+/usr/bin/c++  -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/telemetry_engine.dir/src/main.cpp.o CMakeFiles/telemetry_engine.dir/src/telemetry_engine.cpp.o -o telemetry_engine
