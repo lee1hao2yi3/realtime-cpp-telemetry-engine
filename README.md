@@ -18,7 +18,7 @@ A low-latency, multi-threaded telemetry processing engine written in C++20, desi
 ### Build Steps
 ```bash
 # Clone the repository
-git clone [https://github.com/YOUR_GITHUB_USERNAME/realtime-cpp-telemetry-engine.git](https://github.com/YOUR_GITHUB_USERNAME/realtime-cpp-telemetry-engine.git)
+git clone [https://github.com/lee1hao2yi3/realtime-cpp-telemetry-engine.git](https://github.com/lee1hao2yi3/realtime-cpp-telemetry-engine.git)
 cd realtime-cpp-telemetry-engine
 
 # Build executable
